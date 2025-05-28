@@ -3,7 +3,7 @@
 - 🎯 Desenvolvedor focado em **LUA**, especialmente para **FiveM (QBCore / vRP)**.
 - 🧠 Sempre explorando novas formas de otimizar scripts e sistemas dentro do roleplay.
 - 🛠️ Atualmente trabalhando em projetos para servidores RP e ferramentas de administração.
-- 📫 Me chama no **[Discord]** ou via e-mail: fagner.alucard@gmail.com
+- 📫 Me chama no **[Discord]** https://discord.gg/6qKasA3Jgk
 - 🚀 Sempre aberto a parcerias e freelas! Vem trocar uma ideia.
 
 ### 🧰 Tecnologias que uso
