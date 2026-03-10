@@ -1,6 +1,6 @@
 ## 👋 Fala aí, eu sou o AlucardFagner
 
-- 🎯 Desenvolvedor focado em **LUA**, especialmente para **FiveM (QBCore / vRP)**.
+- 🎯 Desenvolvedor focado em **LUA**, especialmente para **FiveM (QBCore / QBox)**.
 - 🧠 Sempre explorando novas formas de otimizar scripts e sistemas dentro do roleplay.
 - 🛠️ Atualmente trabalhando em projetos para servidores RP e ferramentas de administração.
 - 📫 Me chama no **[Discord]** https://discord.gg/6qKasA3Jgk
