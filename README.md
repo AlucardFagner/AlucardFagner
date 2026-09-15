@@ -1,24 +1,64 @@
-## 👋 Fala aí, eu sou o AlucardFagner
+# 👋 Renato Fagner | AlucardFagner
 
-- 🎯 Desenvolvedor focado em **LUA**, especialmente para **FiveM (QBCore / QBox)**.
-- 🧠 Sempre explorando novas formas de otimizar scripts e sistemas dentro do roleplay.
-- 🛠️ Atualmente trabalhando em projetos para servidores RP e ferramentas de administração.
-- 📫 Me chama no **[Discord]** https://discord.gg/6qKasA3Jgk
-- 🚀 Sempre aberto a parcerias e freelas! Vem trocar uma ideia.
+### Desenvolvedor Full Stack | Lua • JavaScript • React • PHP • MySQL
 
-### 🧰 Tecnologias que uso
+Desenvolvedor focado na criação, manutenção e evolução de sistemas, com experiência em **Lua, JavaScript, React, PHP e MySQL**.
+
+Atuo principalmente com arquitetura client/server, integrações, banco de dados, debugging, otimização de performance e desenvolvimento de interfaces.
+
+Tenho experiência no desenvolvimento de aplicações para ambientes FiveM utilizando **QBOX, QBCore e ecossistema OX**, além de experiência profissional anterior com sistemas voltados ao segmento financeiro.
+
+---
+
+## 🚀 Áreas de atuação
+
+- Desenvolvimento Full Stack
+- Sistemas em Lua
+- Arquitetura Client/Server
+- APIs e Integrações
+- MySQL e persistência de dados
+- Debugging e manutenção de sistemas
+- Desenvolvimento de interfaces com React
+- Automação e bots
+- Git e GitHub
+- Linux e ambientes VPS
+
+---
+
+## 🧰 Tecnologias
+
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 📈 Stats do GitHub
-![AlucardFagner's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlucardFagner&show_icons=true&theme=radical)
+---
 
+## 🎮 Experiência com FiveM
 
+Desenvolvimento e manutenção de sistemas utilizando:
 
-<!---
-AlucardFagner/AlucardFagner é um repositório ✨ especial ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
-Você pode clicar no link Visualizar para dar uma olhada nas suas alterações.
---->
+**QBOX • QBCore • ox_lib • ox_inventory • ox_target • oxmysql**
+
+Criação de sistemas completos, interfaces, integrações, ferramentas administrativas, economia, empregos, missões e soluções customizadas.
+
+---
+
+## 📊 GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlucardFagner&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlucardFagner&layout=compact&theme=github_dark&hide_border=true)
+
+---
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN_AQUI)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlucardFagner)
+
+Aberto a oportunidades profissionais, projetos e colaborações.
