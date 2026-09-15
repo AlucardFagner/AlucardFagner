@@ -1,13 +1,5 @@
 
-### Desenvolvedor Full Stack | Lua • JavaScript • React • PHP • MySQL
-
-Desenvolvedor focado na criação, manutenção e evolução de sistemas, com experiência em **Lua, JavaScript, React, PHP e MySQL**.
-
-Atuo principalmente com arquitetura client/server, integrações, banco de dados, debugging, otimização de performance e desenvolvimento de interfaces.
-
-Tenho experiência no desenvolvimento de aplicações para ambientes FiveM utilizando **QBOX, QBCore e ecossistema OX**, além de experiência profissional anterior com sistemas voltados ao segmento financeiro.
-
-<h1 align="center">Renato Fagner | AlucardFagner</h1>
+<h1 align="center">AlucardFagner</h1>
 
 <p align="center">
   <img
@@ -15,6 +7,15 @@ Tenho experiência no desenvolvimento de aplicações para ambientes FiveM utili
     alt="Typing SVG"
   />
 </p>
+
+
+### Desenvolvedor Full Stack | Lua • JavaScript • React • PHP • MySQL
+
+Desenvolvedor focado na criação, manutenção e evolução de sistemas, com experiência em **Lua, JavaScript, React, PHP e MySQL**.
+
+Atuo principalmente com arquitetura client/server, integrações, banco de dados, debugging, otimização de performance e desenvolvimento de interfaces.
+
+Tenho experiência no desenvolvimento de aplicações para ambientes FiveM utilizando **QBOX, QBCore e ecossistema OX**, além de experiência profissional anterior com sistemas voltados ao segmento financeiro.
 
 ---
 
