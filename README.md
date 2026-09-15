@@ -7,6 +7,15 @@ Atuo principalmente com arquitetura client/server, integrações, banco de dados
 
 Tenho experiência no desenvolvimento de aplicações para ambientes FiveM utilizando **QBOX, QBCore e ecossistema OX**, além de experiência profissional anterior com sistemas voltados ao segmento financeiro.
 
+<h1 align="center">Renato Fagner | AlucardFagner</h1>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F47B20&center=true&vCenter=true&width=850&lines=Desenvolvedor+Full+Stack;Lua+%7C+JavaScript+%7C+React+%7C+PHP+%7C+MySQL;APIs+%26+Integra%C3%A7%C3%B5es;Debugging+%7C+Backend+%7C+Sistemas"
+    alt="Typing SVG"
+  />
+</p>
+
 ---
 
 ## 🚀 Áreas de atuação
