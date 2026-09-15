@@ -1,4 +1,3 @@
-# 👋 Renato Fagner | AlucardFagner
 
 ### Desenvolvedor Full Stack | Lua • JavaScript • React • PHP • MySQL
 
